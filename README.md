@@ -1,3 +1,4 @@
+
 # 🧠 Autonomous AI Brainstorming System
 
 Simulate a team of autonomous AI agents—Product Manager, Developer, Designer, and Marketer—collaborating on your startup or product idea. Each agent brings unique insights and domain expertise to expand, validate, and evolve your concepts in real time.
@@ -93,3 +94,6 @@ MIT License
 
 Abhimanyu Jai Menon  
 [LinkedIn](https://www.linkedin.com/in/abhimanyujaimenon/) | [GitHub](https://github.com/AbhimanyuJaiMenon)
+=======
+# autobrain
+A multi-agent autonomous brainstorming system powered by LLaMA3 and LangChain.
